@@ -1,3 +1,3 @@
-# Start Project STM32f429i-Discovery
+# Start Project STM32f429i-Discovery (STM32CubeIDE)
 ## Display
 ## Touch
